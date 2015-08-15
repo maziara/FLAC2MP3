@@ -9,7 +9,7 @@ To use it, simply clone the repository, and run the script from the folder all y
 
 ```
 cd ~
-git clone 
+git clone https://github.com/maziara/FLAC2MP3.git
 cd ToMyMusicFilesThatNeedToBeConvertedToMP3
 ~/FLAC2MP3/flac2mp3.sh
 ```
