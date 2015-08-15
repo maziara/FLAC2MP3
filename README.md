@@ -10,6 +10,7 @@ To use it, simply clone the repository, and run the script from the folder all y
 ```
 cd ~
 git clone https://github.com/maziara/FLAC2MP3.git
+chmod +x FLAC2MP3/flac2mp3.sh
 cd ToMyMusicFilesThatNeedToBeConvertedToMP3
 ~/FLAC2MP3/flac2mp3.sh
 ```
