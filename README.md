@@ -5,6 +5,11 @@ This script finds all the files with FLAC extensions in the current directory (a
 
 It also includes the 'cover.jpg' files into the converted files as cover photo from their respective folder.
 
+It requires the 'libav' package. On ubuntu you can do:
+```
+sudo apt-get install libav-tools
+```
+
 To use it, simply clone the repository, and run the script from the folder all your FLAC files reside. Like below:
 
 ```
